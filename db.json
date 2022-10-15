@@ -1,0 +1,11 @@
+{
+  "categories": 
+  [
+      { "id": 0, "name": "Burgerss", "image": "food1.png"},
+      { "id": 1, "name": "Saladss", "image": "food1.png"},
+      { "id": 2, "name": "HotDogss", "image": "food1.png"},
+      { "id": 3, "name": "Chineses", "image": "food1.png"},
+      { "id": 4, "name": "Mexican", "image": "food1.png"},
+      { "id": 5, "name": "Sea Food", "image": "food1.png"}
+  ]
+}

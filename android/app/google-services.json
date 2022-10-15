@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588402434341",
+    "project_id": "xpressfood-cd87d",
+    "storage_bucket": "xpressfood-cd87d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588402434341:android:9fbaf16c7bf94ab18b7acc",
+        "android_client_info": {
+          "package_name": "com.appfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588402434341-nom6odva3rcsrbtt61uevo7i7pikni5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsaqnE1iqNd1WYWA5z2fFDH7xLxu16tMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588402434341-nom6odva3rcsrbtt61uevo7i7pikni5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
